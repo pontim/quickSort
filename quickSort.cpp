@@ -13,7 +13,7 @@ void swap(int &a, int &b);
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout << "What output \\n do \'you\' expect?";
+
 
 	cin.get();
 	return 0;
